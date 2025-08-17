@@ -67,7 +67,7 @@ generate_pptx("Generative AI and Its Applications", template="default.pptx")
 
 ## 📄 License
 
-MIT License. See [LICENSE] for full terms.
+MIT License. See [[LICENSE]](https://github.com/SatChittAnand/AI-Task-Automator?tab=MIT-1-ov-file) for full terms.
 
 ---
 
