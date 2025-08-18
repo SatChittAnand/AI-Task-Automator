@@ -73,7 +73,7 @@ MIT License. See [[LICENSE]](https://github.com/SatChittAnand/AI-Task-Automator?
 
 ## 👨‍💻 Author
 
-Built by Satyanarayan, passionate about modular automation, agentic design, and workflow clarity. For contributions, feedback, or feature requests, open an issue or submit a PR!
+Built by Satyanarayan with 💓, passionate about modular automation, agentic design, and workflow clarity. For contributions, feedback, or feature requests, open an issue or submit a PR!
 
 ---
 
