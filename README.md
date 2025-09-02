@@ -1,4 +1,3 @@
-
 ## AI Task Automator 🧠➡️📊
 
 AI Task Automator is a Gradio-based, agent-powered slide generation tool that transforms any given topic into a structured PowerPoint presentation (`.pptx`). Designed for modularity, clarity, and customization, it uses intelligent components to research, summarize, and build polished slide decks.
